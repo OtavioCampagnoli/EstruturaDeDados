@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch EmbaralharArrayComum",
+            "request": "launch",
+            "mainClass": "aula06.exerciciosAula06.EmbaralharArrayComum",
+            "projectName": "EstruturaDeDados"
+        },
+        {
+            "type": "java",
+            "name": "Launch RGM27702839OtavioHenriqueMoreiraCampagnoli",
+            "request": "launch",
+            "mainClass": "aula05.exercicioAula05.RGM27702839OtavioHenriqueMoreiraCampagnoli",
+            "projectName": "EstruturaDeDados"
+        },
+        {
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
