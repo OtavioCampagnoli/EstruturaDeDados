@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch InversaoDeVetor",
+            "request": "launch",
+            "mainClass": "aula03.InversaoDeVetor",
+            "projectName": "EstruturaDeDados"
+        },
+        {
+            "type": "java",
             "name": "Launch Exercicio3",
             "request": "launch",
             "mainClass": "aula06.exerciciosAula06.Exercicio3",
