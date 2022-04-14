@@ -1,5 +1,4 @@
 package aula06.exemplosAula06;
-
 import java.util.Random;
 
 public class EmbaralharArrayComum {

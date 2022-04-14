@@ -1,4 +1,4 @@
-package aula05;
+package aula05.ExemplosAula05;
 
 public class Fatorial {
 
