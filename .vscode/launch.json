@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TestaPilha",
+            "request": "launch",
+            "mainClass": "aula08.pilha.TestaPilha",
+            "projectName": "EstruturaDeDados"
+        },
+        {
+            "type": "java",
             "name": "Launch testePilhaDin",
             "request": "launch",
             "mainClass": "aula08.pilha.testePilhaDin",
