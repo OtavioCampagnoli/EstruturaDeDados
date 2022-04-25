@@ -1,4 +1,4 @@
-package filasetaticaSequencial;
+package aula09.filasetaticaSequencial;
 
 public interface TAD_Queue {  // tipo abstrato de dado que descreve a Fila        
     //Verifica se a Queue está vazia:

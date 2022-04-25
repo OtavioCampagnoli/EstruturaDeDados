@@ -1,4 +1,4 @@
-package filasetaticaSequencial;
+package aula09.filasetaticaSequencial;
 
 /*   @author Ledón  */
 
