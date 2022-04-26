@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex_FisherYates",
+            "request": "launch",
+            "mainClass": "aula03.Ex_FisherYates",
+            "projectName": "EstruturaDeDados"
+        },
+        {
+            "type": "java",
             "name": "Launch TestaPilha",
             "request": "launch",
             "mainClass": "aula08.pilha.TestaPilha",
