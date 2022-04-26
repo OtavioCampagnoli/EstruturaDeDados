@@ -11,7 +11,7 @@ public class Ex_FisherYates {
         lista.add(0.4f); lista.add(-8.8f); lista.add(9.0f); lista .add(3.3f);
         System.out.println("\nLista original: ");
         visualizarArrayList(lista);
-        aleatorizar(lista);
+        aleatorizar(lista); 
         System.out.println("\nLista anterior aleatorizada com o algoritmo de Fisher-Yates: ");
         visualizarArrayList(lista);
 
