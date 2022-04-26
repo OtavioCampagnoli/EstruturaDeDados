@@ -25,16 +25,16 @@ public class Ex_FisherYates {
             int postAleat = rnd.nextInt(lista.size());
             // Adicionamos o elemento sorteado no final da lista auxiliar:
             listaTemp.add(lista.get(postAleat));
-            //eliminamos o elemento da lista original: 
+            //eliminamos o elemento da lista original:
             lista.remove(postAleat);
         }
-        //adicionamos o único restante no final da lista adicional: 
+        //adicionamos o único restante no final da lista adicional:
         listaTemp.add(lista.get(0));
         lista.clear(); // limpamos a lista original
         //por ultimo, passamos todos os elementos da lista adicional para a lista original
         for (int i = 0; i < listaTemp.size(); i++) {
             lista.add(listaTemp.get(i));
-            
+
         }
 
     }
@@ -43,11 +43,11 @@ public class Ex_FisherYates {
 
         for (int i = 0; i < lista.size(); i++) {
             System.out.println(lista.get(i)+ "  | |  ");
-            
+
         }
         System.out.println();
     }
 
-    
-    
+
+
 }
