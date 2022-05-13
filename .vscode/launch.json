@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FilaEstaticaSequencial",
+            "request": "launch",
+            "mainClass": "aula09.filasetaticaSequencial.FilaEstaticaSequencial",
+            "projectName": "EstruturaDeDados"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex_FisherYates",
             "request": "launch",
             "mainClass": "aula03.Ex_FisherYates",
